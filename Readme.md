@@ -4,7 +4,17 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 
-[![](https://github.com/Alexito3914/University-works/assets/146538069/906653c1-e9a3-48e1-b445-010e0b4c5833)][zhihu]
+⚠️ Aviso ⚠️: A la hora de hacer la información de pokemon te tienes que instalar un pip a traves del terminal de pycharm o el launcher que estes usando. Lo puedes hacer a traves del comando pip install requests, importando asi la libreria requests.
+<img width="854" alt="image" src="https://github.com/Alexito3914/University-works/assets/146538069/e5dbd52c-865d-4cea-a223-debf419c4355">
+
+
+
+## ☄️Comandos☄️
+- ch.starter -> Te permite cambiar el inicial escogido
+- exit -> Cierra la terminal
+- info.pokemon (pokemon) -> Da información del pokemon
+- sh.inicial -> Muestra una forma ASCII del pokemon
+
 
 
 
