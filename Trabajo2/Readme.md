@@ -17,15 +17,27 @@
 
 
 
+⚠️ Aviso ⚠️: TODA LA POKEDEX ES UNICAMENTE DE PRIMERA GENERACION, ES UN PROYECTO EN DESARROLLO EN EL QUE EN UN FUTURO SE LE IMPLEMENTARAN MAS FEAUTURES.
+
+## :hammer:Funcion de este proyecto
+
+Este proyecto esta basado en pokemon, se trata de una terminal personalizada de pokemon en la que tu puedes elegir un pokemon de los tres iniciales de la primera generación, dependiendo del que elijas tu letra cambiara de un color a otro.
+- 🔴Charmander
+- 🔵Squirtle
+- 🟢Bulbasaur
+
+Tambien tienes disponibles ciertos comandos con funciones implementadas dentro de ellos, el primer comando que seria obtener info del pokemon, este lo que hace es darte una serie de datos de la pokedex del pokemon que introduzcas. (PARA ESTE COMANDO NECESITAS TENER CONEXION A INTERNET YA QUE ESTA CONECTADO A UNA API)
+- Ejemplo:
+![image](https://github.com/Alexito3914/University-works/assets/146538069/ad7afb85-010c-405d-928b-98ce9b575024)
+
+El segundo comando seria mostrar la ascii de un pokemon, aqui teneis un ejemplo:
+
+![image](https://github.com/Alexito3914/University-works/assets/146538069/b11bb30e-cb52-4481-8196-c82b88b05de5)
 
 
-## :hammer:Pasos del proyecto
+Y el tercer comando lo que hace es que si no estas conforme con el pokemon que has seleccionado, puedes cambiarlo con el pokemon que desees. Ejemplo:
 
-- `Paso 1`:Introduces el año que estas cursando (el programa creará una carpeta, este tendrá como nombre exactamente lo introducido por teclado), se espera recibir algo como 2024 o Ingenieria-Informática-2024.
- - `Paso 2`: El programa creará la carpeta con ese nombre y accederá a él. Una vez dentro se te pedirá el numero de asignaturas (este número es el número de ficheros que se crearán dentro de la carpeta ya creada).
- - `Paso 3`: Si el número introducido es 0, se dirá al usuario que no se crearán ficheros ya que este así lo ha especificado.
- - `Paso 4`: Si no es así el programa seguirá preguntando por el nombre de las asignaturas (nombre de los ficheros que se crearán).
- - `Paso 5`: Finalmente le avisará al usuario que se han creado estos ficheros. -Si el numero introducido no es 0 se espera crear algo así, la carpeta 2024, que dentro contendrá los ficheros como Lengua, Matemáticas, Inglés o Física.
+
 
 
 
