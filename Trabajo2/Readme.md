@@ -38,6 +38,10 @@ El segundo comando seria mostrar la ascii de un pokemon, aqui teneis un ejemplo:
 Y el tercer comando lo que hace es que si no estas conforme con el pokemon que has seleccionado, puedes cambiarlo con el pokemon que desees. Ejemplo:
 
 
+![image](https://github.com/Alexito3914/University-works/assets/146538069/6360ab23-9831-4fd7-98e0-40305969e87b)
+
+
+
 
 
 
