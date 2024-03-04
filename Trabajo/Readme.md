@@ -14,10 +14,12 @@
 - exit -> Cierra la terminal
 - info.pokemon (pokemon) -> Da información del pokemon
 - sh.inicial -> Muestra una forma ASCII del pokemon
+- Si escribes en el terminal "help.pokemon" te muestra más comando
 
 
 
 ⚠️ Aviso ⚠️: TODA LA POKEDEX ES UNICAMENTE DE PRIMERA GENERACION, ES UN PROYECTO EN DESARROLLO EN EL QUE EN UN FUTURO SE LE IMPLEMENTARAN MAS FEAUTURES.
+
 
 ## :hammer:Funcion de este proyecto
 
