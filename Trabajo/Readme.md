@@ -35,7 +35,7 @@ El segundo comando seria mostrar la ascii de un pokemon, aqui teneis un ejemplo:
 ![image](https://github.com/Alexito3914/University-works/assets/146538069/b11bb30e-cb52-4481-8196-c82b88b05de5)
 
 
-Y el tercer comando lo que hace es que si no estas conforme con el pokemon que has seleccionado, puedes cambiarlo con el pokemon que desees. Ejemplo:
+El tercer comando lo que hace es que si no estas conforme con el pokemon que has seleccionado, puedes cambiarlo con el pokemon que desees. Ejemplo:
 
 
 ![image](https://github.com/Alexito3914/University-works/assets/146538069/6360ab23-9831-4fd7-98e0-40305969e87b)
@@ -43,7 +43,16 @@ Y el tercer comando lo que hace es que si no estas conforme con el pokemon que h
 
 
 
+El 4 comando es simple, se llama PID info, muestra el PID del launcher y el PID del .py
 
+
+
+
+## 📜Creditos📜
+
+- Asci de los pokemon: (https://gist.github.com/MatheusFaria/4cbb8b6dbe33fd5605cf8b8f7130ba6d)
+- Pokedex info: (https://pokeapi.co/api/v2/pokemon/)
+- 🥇Chat gpt: (https://chat.openai.com/)
 
 
 Autores
